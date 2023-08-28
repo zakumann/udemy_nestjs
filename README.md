@@ -1,0 +1,1 @@
+running main.ts => npx ts-node-dev src/main.ts
